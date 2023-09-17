@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666403615 source:d:\asm3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1666966633 source:d:\asm3_iot301x_01-a_vn_fx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
